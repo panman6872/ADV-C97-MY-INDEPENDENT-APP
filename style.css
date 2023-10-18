@@ -6,8 +6,6 @@ body {
 
 body {
     background-image: linear-gradient(to right top, #ff9100, #e14b00, #d94f00, #a53700, black);
-    background-repeat: no-repeat;
-    overflow: hidden;
 }
 
 .header {
