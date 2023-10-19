@@ -71,3 +71,6 @@ function logout() {
       localStorage.removeItem("room_name");
       window.location = "kwitter.html";
 }
+function leave() {
+      window.location = "Lets_chat_room.html";
+}
